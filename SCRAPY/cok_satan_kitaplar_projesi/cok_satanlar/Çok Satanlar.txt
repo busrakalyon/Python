@@ -1,0 +1,811 @@
+
+*************************************
+1
+Kitap : İnsanlığımı Yitirirken
+Yazar : Osamu Dazai
+Yayınevi : İthaki Yayınları
+Fiyat : 38,50
+*************************************
+2
+Kitap : Martin Eden
+Yazar : Jack London
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 45,50
+*************************************
+3
+Kitap : Numenor’un Düşüşü
+Yazar : J. R. R. Tolkien
+Yayınevi : İthaki Yayınları
+Fiyat : 122,50
+*************************************
+4
+Kitap : Büyük Defter - Kanıt - Üçüncü Yalan
+Yazar : Agota Kristof
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 77,00
+*************************************
+5
+Kitap : Yaşamak
+Yazar : Yu Hua
+Yayınevi : Jaguar Kitap
+Fiyat : 76,44
+*************************************
+6
+Kitap : Oblomov
+Yazar : İvan Aleksandroviç Gonçarov
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 39,00
+*************************************
+7
+Kitap : Oğuz Atay Seti (7 Kitap Takım)
+Yazar : Oğuz Atay
+Yayınevi : İletişim Yayınevi
+Fiyat : 375,50
+*************************************
+8
+Kitap : Kuru Kız
+Yazar : Ayfer Tunç
+Yayınevi : Can Yayınları
+Fiyat : 86,25
+*************************************
+9
+Kitap : İyi Hissetmek
+Yazar : David Burns
+Yayınevi : Psikonet Yayınları
+Fiyat : 85,00
+*************************************
+10
+Kitap : Nietzsche Ağladığında
+Yazar : Irvin D. Yalom
+Yayınevi : Ayrıntı Yayınları
+Fiyat : 100,00
+*************************************
+11
+Kitap : Nereye Gidiyoruz Baba?
+Yazar : Jean Louis Fournier
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 26,60
+*************************************
+12
+Kitap : Yüzüklerin Efendisi 3 Kitap Takım
+Yazar : J. R. R. Tolkien
+Yayınevi : Metis Yayınları
+Fiyat : 303,00
+*************************************
+13
+Kitap : Anna Karenina
+Yazar : Lev Nikolayeviç Tolstoy
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 91,00
+*************************************
+14
+Kitap : Narnia Günlükleri Tek Cilt Özel Baskı
+Yazar : C. S. Lewis
+Yayınevi : Doğan Çocuk
+Fiyat : 492,15
+*************************************
+15
+Kitap : İnsanın Anlam Arayışı
+Yazar : Viktor Emil Frankl
+Yayınevi : Okuyan Us Yayın
+Fiyat : 88,88
+*************************************
+16
+Kitap : Bir Kadın
+Yazar : Viktor Frankl
+Yayınevi : Can Yayınları
+Fiyat : 54,75
+*************************************
+17
+Kitap : Pal Sokağı Çocukları (Ciltsiz)
+Yazar : Annie Ernaux
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 28,00
+*************************************
+18
+Kitap : Gece Yarısı Kütüphanesi
+Yazar : Ferenc Molnar
+Yayınevi : Domingo Yayınevi
+Fiyat : 91,00
+*************************************
+19
+Kitap : Asla Kimseyi Öldürmedi Benim Babam
+Yazar : Matt Haig
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 31,50
+*************************************
+20
+Kitap : Kaplanın Sırtında
+Yazar : Jean Louis Fournier
+Yayınevi : İnkılap Kitabevi
+Fiyat : 105,00
+*************************************
+21
+Kitap : Seninle Başlamadı
+Yazar : Zülfü Livaneli
+Yayınevi : Sola Unitas
+Fiyat : 123,25
+*************************************
+22
+Kitap : Düşün ve Zengin Ol
+Yazar : Mark Wolynn
+Yayınevi : Altın Kitaplar
+Fiyat : 84,70
+*************************************
+23
+Kitap : Bekleyecek Vaktim Kalmadı Artık
+Yazar : Napoleon Hill
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 28,00
+*************************************
+24
+Kitap : Çavdar Tarlasında Çocuklar
+Yazar : Jean Louis Fournier
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 59,50
+*************************************
+25
+Kitap : Toprak Ana
+Yazar : Jerome David Salinger
+Yayınevi : Ötüken Neşriyat
+Fiyat : 35,00
+*************************************
+26
+Kitap : Tek Yalnız Ben Değilim
+Yazar : Cengiz Aytmatov
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 42,00
+*************************************
+27
+Kitap : Masumiyet Müzesi
+Yazar : Jean Louis Fournier
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 175,00
+*************************************
+28
+Kitap : Yaşadım Demek İçin Ne  Yapmalı?
+Yazar : Orhan Pamuk
+Yayınevi : Tuhaf
+Fiyat : 74,75
+*************************************
+29
+Kitap : Suç ve Ceza
+Yazar : Büşra Sanay
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 77,00
+*************************************
+30
+Kitap : Karamazov Kardeşler
+Yazar : Muazzez İlmiye Çığ
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 77,00
+*************************************
+31
+Kitap : Annie Ernaux Seti (6 Kitap Takım)
+Yazar : Fyodor Mihayloviç Dostoyevski
+Yayınevi : Can Yayınları
+Fiyat : 294,00
+*************************************
+32
+Kitap : Saç Örgüsü
+Yazar : Fyodor Mihayloviç Dostoyevski
+Yayınevi : Yan Pasaj Yayınevi
+Fiyat : 47,00
+*************************************
+33
+Kitap : Sefiller (2 Cilt Takım)
+Yazar : Annie Ernaux
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 140,00
+*************************************
+34
+Kitap : İnce Memed - 1
+Yazar : Laetitia Colombani 
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 95,00
+*************************************
+35
+Kitap : Pandora’nın Kutusu
+Yazar : Victor Hugo
+Yayınevi : İthaki Yayınları
+Fiyat : 28,00
+*************************************
+36
+Kitap : Boş Dolaplar
+Yazar : Yaşar Kemal
+Yayınevi : Can Yayınları
+Fiyat : 67,50
+*************************************
+37
+Kitap : Semerkant
+Yazar : Osamu Dazai
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 84,00
+*************************************
+38
+Kitap : Veronika Ölmek İstiyor
+Yazar : Annie Ernaux
+Yayınevi : Can Yayınları
+Fiyat : 97,50
+*************************************
+39
+Kitap : Beyaz Gemi
+Yazar : Amin Maalouf
+Yayınevi : Ötüken Neşriyat
+Fiyat : 45,50
+*************************************
+40
+Kitap : İlkçağ Felsefe Tarihi Serisi - 5 Kitap Takım
+Yazar : Paulo Coelho
+Yayınevi : Alfa Yayınları
+Fiyat : 462,00
+*************************************
+41
+Kitap : Yarın Yok
+Yazar : Cengiz Aytmatov
+Yayınevi : Everest Yayınları
+Fiyat : 69,00
+*************************************
+42
+Kitap : Dul
+Yazar : Ahmet Arslan
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 35,00
+*************************************
+43
+Kitap : Swann’ların Tarafı
+Yazar : Ayşe Kulin
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 70,00
+*************************************
+44
+Kitap : Yalın Tutku
+Yazar : Jean Louis Fournier
+Yayınevi : Can Yayınları
+Fiyat : 50,25
+*************************************
+45
+Kitap : Harry Potter Seti (7 Kitap Takım)
+Yazar : Marcel Proust
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 948,50
+*************************************
+46
+Kitap : On Kişiydiler (On Küçük Zenci)
+Yazar : Agatha Christie
+Yayınevi : Altın Kitaplar
+Fiyat : 83,16
+*************************************
+47
+Kitap : Kuzeyli Annem
+Yazar : Jean Louis Fournier
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 31,50
+*************************************
+48
+Kitap : İki Şehrin Hikayesi
+Yazar : Charles Dickens
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 56,00
+*************************************
+49
+Kitap : Sodom ve Gomorra
+Yazar : Marcel Proust
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 50,00
+*************************************
+50
+Kitap : Olay
+Yazar : Annie Ernaux
+Yayınevi : Can Yayınları
+Fiyat : 45,00
+*************************************
+51
+Kitap : Bir İdam Mahkumunun Son Günü
+Yazar : Victor Hugo
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 21,00
+*************************************
+52
+Kitap : Yaşlı Adam ve Deniz (İhtiyar Balıkçı)
+Yazar : Ernest Hemingway
+Yayınevi : Bilgi Yayınevi
+Fiyat : 58,50
+*************************************
+53
+Kitap : Kendime Düşünceler
+Yazar : Marcus Aurelius
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 15,00
+*************************************
+54
+Kitap : Albertine Kayıp
+Yazar : Marcel Proust
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 42,00
+*************************************
+55
+Kitap : Çiçek Açmış Genç Kızların Gölgesinde
+Yazar : Marcel Proust
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 59,50
+*************************************
+56
+Kitap : Gurur ve Önyargı
+Yazar : Jane Austen
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 42,00
+*************************************
+57
+Kitap : Yakalanan Zaman
+Yazar : Marcel Proust
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 59,50
+*************************************
+58
+Kitap : Ressamın İsyanı 
+Yazar : Gündüz Vassaf
+Yayınevi : Everest Yayınları
+Fiyat : 141,00
+*************************************
+59
+Kitap : Nasıl Ölünür
+Yazar : Emile Zola
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 14,00
+*************************************
+60
+Kitap : Beni Neden Sevmedin Anne?
+Yazar : Esra Ezmeci
+Yayınevi : Destek Yayınları
+Fiyat : 71,50
+*************************************
+61
+Kitap : Fedailerin Kalesi Alamut
+Yazar : Vladimir Bartol
+Yayınevi : Koridor Yayıncılık
+Fiyat : 111,75
+*************************************
+62
+Kitap : Galaktik Trenyolu'nda Gece Vakti
+Yazar : Kenci Miyazava
+Yayınevi : İthaki Yayınları
+Fiyat : 28,00
+*************************************
+63
+Kitap : Farklı Ama Aynı
+Yazar : Feridun Oral
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 59,50
+*************************************
+64
+Kitap : Guermantes Tarafı
+Yazar : Marcel Proust
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 47,50
+*************************************
+65
+Kitap : Doğu Ekspresinde Cinayet
+Yazar : Agatha Christie
+Yayınevi : Altın Kitaplar
+Fiyat : 94,71
+*************************************
+66
+Kitap : Pan
+Yazar : Knut Hamsun
+Yayınevi : Can Yayınları
+Fiyat : 30,00
+*************************************
+67
+Kitap : Büyük Sorular Kitabım - Hayvanlar
+Yazar : Sabahattin Ali
+Yayınevi : Yapı Kredi Yayınları Kültür
+Fiyat : 90,00
+*************************************
+68
+Kitap : Kürk Mantolu Madonna
+Yazar : Oscar Wilde
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 17,50
+*************************************
+69
+Kitap : Dorian Gray’in Portresi
+Yazar : Jean Louis Fournier
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 29,40
+*************************************
+70
+Kitap : Otopsim
+Yazar : Emrah Safa Gürkan
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 25,00
+*************************************
+71
+Kitap : Cumhuriyetin 100 İsmi: Büyük Devrimin Portreleri
+Yazar : Yaşar Kemal
+Yayınevi : Mundi
+Fiyat : 63,00
+*************************************
+72
+Kitap : İnce Memed - 2
+Yazar : Jose Mauro de Vasconcelos
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 62,50
+*************************************
+73
+Kitap : Şeker Portakalı
+Yazar : Knut Hamsun
+Yayınevi : Can Yayınları
+Fiyat : 93,75
+*************************************
+74
+Kitap : Açlık
+Yazar : Jean Louis Fournier
+Yayınevi : Can Yayınları
+Fiyat : 39,00
+*************************************
+75
+Kitap : Son Siyah Saçım ve İhtiyar Delikanlılara Bazı Öğütler
+Yazar : Emrah Safa Gürkan
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 57,50
+*************************************
+76
+Kitap : Cumhuriyetin 100 Günü: İnkılabın Ayak Sesleri
+Yazar : Beyhan Budak
+Yayınevi : Mundi
+Fiyat : 63,00
+*************************************
+77
+Kitap : Kendine İyi Davran Güzel İnsan
+Yazar : Yaşar Kemal
+Yayınevi : Sahi Kitap
+Fiyat : 57,50
+*************************************
+78
+Kitap : Ağrıdağı Efsanesi
+Yazar : Vladimir Tumanov
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 28,00
+*************************************
+79
+Kitap : Suda Kaybolmak
+Yazar : Amin Maalouf
+Yayınevi : Günışığı Kitaplığı
+Fiyat : 63,00
+*************************************
+80
+Kitap : Doğu'nun Limanları
+Yazar : Barış Pehlivan
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 59,50
+*************************************
+81
+Kitap : SS
+Yazar : Barış Terkoğlu
+Yayınevi : Kırmızı Kedi Yayınevi
+Fiyat : 104,00
+*************************************
+82
+Kitap : Notre Dame'ın Kamburu
+Yazar : Victor Hugo
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 58,80
+*************************************
+83
+Kitap : Ateşten Kaçmak
+Yazar : Vladimir Tumanov
+Yayınevi : Günışığı Kitaplığı
+Fiyat : 45,00
+*************************************
+84
+Kitap : Büyük Sorular Kitabım
+Yazar : Sandra Lebrun et  Loic Audrain
+Yayınevi : Yapı Kredi Yayınları Kültür
+Fiyat : 90,00
+*************************************
+85
+Kitap : Senin Suçun Değil
+Yazar : Beyhan Budak
+Yayınevi : Sahi Kitap
+Fiyat : 77,50
+*************************************
+86
+Kitap : Ölü Ozanlar Derneği
+Yazar : N .H. Kleinbaum
+Yayınevi : Bilge Kültür Sanat - Diğer
+Fiyat : 47,56
+*************************************
+87
+Kitap : Otomatik Portakal
+Yazar : Anthony Burgess
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 25,20
+*************************************
+88
+Kitap : Bir Aşk Masalı
+Yazar : Ahmet Ümit
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 59,50
+*************************************
+89
+Kitap : Çiçeğin Ruhu: Noh Tiyatrosunun Klasik Öğretileri
+Yazar : Zeami
+Yayınevi : İthaki Yayınları
+Fiyat : 28,00
+*************************************
+90
+Kitap : Bağlanma
+Yazar : Amir Levine
+Yayınevi : Aganta Kitap
+Fiyat : 62,50
+*************************************
+91
+Kitap : İnsanlığımı Yitirirken
+Yazar : Osamu Dazai
+Yayınevi : İthaki Yayınları
+Fiyat : 38,50
+*************************************
+92
+Kitap : Martin Eden
+Yazar : Jack London
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 45,50
+*************************************
+93
+Kitap : Numenor’un Düşüşü
+Yazar : J. R. R. Tolkien
+Yayınevi : İthaki Yayınları
+Fiyat : 122,50
+*************************************
+94
+Kitap : Büyük Defter - Kanıt - Üçüncü Yalan
+Yazar : Agota Kristof
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 77,00
+*************************************
+95
+Kitap : Yaşamak
+Yazar : Yu Hua
+Yayınevi : Jaguar Kitap
+Fiyat : 76,44
+*************************************
+96
+Kitap : Oblomov
+Yazar : İvan Aleksandroviç Gonçarov
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 39,00
+*************************************
+97
+Kitap : Oğuz Atay Seti (7 Kitap Takım)
+Yazar : Oğuz Atay
+Yayınevi : İletişim Yayınevi
+Fiyat : 375,50
+*************************************
+98
+Kitap : Kuru Kız
+Yazar : Ayfer Tunç
+Yayınevi : Can Yayınları
+Fiyat : 86,25
+*************************************
+99
+Kitap : İyi Hissetmek
+Yazar : David Burns
+Yayınevi : Psikonet Yayınları
+Fiyat : 85,00
+*************************************
+100
+Kitap : Nietzsche Ağladığında
+Yazar : Irvin D. Yalom
+Yayınevi : Ayrıntı Yayınları
+Fiyat : 100,00
+*************************************
+101
+Kitap : Nereye Gidiyoruz Baba?
+Yazar : Jean Louis Fournier
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 26,60
+*************************************
+102
+Kitap : Yüzüklerin Efendisi 3 Kitap Takım
+Yazar : J. R. R. Tolkien
+Yayınevi : Metis Yayınları
+Fiyat : 303,00
+*************************************
+103
+Kitap : Anna Karenina
+Yazar : Lev Nikolayeviç Tolstoy
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 91,00
+*************************************
+104
+Kitap : Narnia Günlükleri Tek Cilt Özel Baskı
+Yazar : C. S. Lewis
+Yayınevi : Doğan Çocuk
+Fiyat : 492,15
+*************************************
+105
+Kitap : İnsanın Anlam Arayışı
+Yazar : Viktor Emil Frankl
+Yayınevi : Okuyan Us Yayın
+Fiyat : 88,88
+*************************************
+106
+Kitap : Bir Kadın
+Yazar : Viktor Frankl
+Yayınevi : Can Yayınları
+Fiyat : 54,75
+*************************************
+107
+Kitap : Pal Sokağı Çocukları (Ciltsiz)
+Yazar : Annie Ernaux
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 28,00
+*************************************
+108
+Kitap : Gece Yarısı Kütüphanesi
+Yazar : Ferenc Molnar
+Yayınevi : Domingo Yayınevi
+Fiyat : 91,00
+*************************************
+109
+Kitap : Asla Kimseyi Öldürmedi Benim Babam
+Yazar : Matt Haig
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 31,50
+*************************************
+110
+Kitap : Kaplanın Sırtında
+Yazar : Jean Louis Fournier
+Yayınevi : İnkılap Kitabevi
+Fiyat : 105,00
+*************************************
+111
+Kitap : Seninle Başlamadı
+Yazar : Zülfü Livaneli
+Yayınevi : Sola Unitas
+Fiyat : 123,25
+*************************************
+112
+Kitap : Düşün ve Zengin Ol
+Yazar : Mark Wolynn
+Yayınevi : Altın Kitaplar
+Fiyat : 84,70
+*************************************
+113
+Kitap : Bekleyecek Vaktim Kalmadı Artık
+Yazar : Napoleon Hill
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 28,00
+*************************************
+114
+Kitap : Çavdar Tarlasında Çocuklar
+Yazar : Jean Louis Fournier
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 59,50
+*************************************
+115
+Kitap : Toprak Ana
+Yazar : Jerome David Salinger
+Yayınevi : Ötüken Neşriyat
+Fiyat : 35,00
+*************************************
+116
+Kitap : Tek Yalnız Ben Değilim
+Yazar : Cengiz Aytmatov
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 42,00
+*************************************
+117
+Kitap : Masumiyet Müzesi
+Yazar : Jean Louis Fournier
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 175,00
+*************************************
+118
+Kitap : Yaşadım Demek İçin Ne  Yapmalı?
+Yazar : Orhan Pamuk
+Yayınevi : Tuhaf
+Fiyat : 74,75
+*************************************
+119
+Kitap : Suç ve Ceza
+Yazar : Büşra Sanay
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 77,00
+*************************************
+120
+Kitap : Karamazov Kardeşler
+Yazar : Muazzez İlmiye Çığ
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 77,00
+*************************************
+121
+Kitap : Annie Ernaux Seti (6 Kitap Takım)
+Yazar : Fyodor Mihayloviç Dostoyevski
+Yayınevi : Can Yayınları
+Fiyat : 294,00
+*************************************
+122
+Kitap : Saç Örgüsü
+Yazar : Fyodor Mihayloviç Dostoyevski
+Yayınevi : Yan Pasaj Yayınevi
+Fiyat : 47,00
+*************************************
+123
+Kitap : Sefiller (2 Cilt Takım)
+Yazar : Annie Ernaux
+Yayınevi : İş Bankası Kültür Yayınları
+Fiyat : 140,00
+*************************************
+124
+Kitap : İnce Memed - 1
+Yazar : Laetitia Colombani 
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 95,00
+*************************************
+125
+Kitap : Pandora’nın Kutusu
+Yazar : Victor Hugo
+Yayınevi : İthaki Yayınları
+Fiyat : 28,00
+*************************************
+126
+Kitap : Boş Dolaplar
+Yazar : Yaşar Kemal
+Yayınevi : Can Yayınları
+Fiyat : 67,50
+*************************************
+127
+Kitap : Semerkant
+Yazar : Osamu Dazai
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 84,00
+*************************************
+128
+Kitap : Veronika Ölmek İstiyor
+Yazar : Annie Ernaux
+Yayınevi : Can Yayınları
+Fiyat : 97,50
+*************************************
+129
+Kitap : Beyaz Gemi
+Yazar : Amin Maalouf
+Yayınevi : Ötüken Neşriyat
+Fiyat : 45,50
+*************************************
+130
+Kitap : İlkçağ Felsefe Tarihi Serisi - 5 Kitap Takım
+Yazar : Paulo Coelho
+Yayınevi : Alfa Yayınları
+Fiyat : 462,00
+*************************************
+131
+Kitap : Yarın Yok
+Yazar : Cengiz Aytmatov
+Yayınevi : Everest Yayınları
+Fiyat : 69,00
+*************************************
+132
+Kitap : Dul
+Yazar : Ahmet Arslan
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 35,00
+*************************************
+133
+Kitap : Swann’ların Tarafı
+Yazar : Ayşe Kulin
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 70,00
+*************************************
+134
+Kitap : Yalın Tutku
+Yazar : Jean Louis Fournier
+Yayınevi : Can Yayınları
+Fiyat : 50,25
+*************************************
+135
+Kitap : Harry Potter Seti (7 Kitap Takım)
+Yazar : Marcel Proust
+Yayınevi : Yapı Kredi Yayınları
+Fiyat : 948,50
